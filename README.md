@@ -16,3 +16,10 @@ This project implements a Retrieval-Augmented Generation (RAG) system for answer
 2. **Install dependencies:**
    ```sh
    npm install
+
+   GEMINI_API_KEY=your_gemini_api_key
+PINECONE_API_KEY=your_pinecone_api_key
+PINECONE_ENVIRONMENT=your_pinecone_env
+PINECONE_INDEX_NAME=your_index_name
+
+
